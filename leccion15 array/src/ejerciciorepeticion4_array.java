@@ -16,7 +16,7 @@ public class ejerciciorepeticion4_array {
             finalArray=array[(n-1)-i];
             System.out.println("primer elemento es:"+inicioArray);
             System.out.println("ultimo elemento es: "+ finalArray);
-        }
+        }// sencillo paso para organizar arrays del primero al ultimo
 
     }
 }
