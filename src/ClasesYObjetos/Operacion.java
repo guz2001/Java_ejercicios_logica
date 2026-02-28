@@ -29,6 +29,6 @@ public class Operacion {
         System.out.println("resultado resta es: "+resta);
         System.out.println("resultado multiplicacion es: "+multi);
         System.out.println("resultado division es: "+divi);
-
+//crear objetos que suman ez
     }
 }
