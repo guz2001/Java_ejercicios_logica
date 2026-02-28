@@ -21,5 +21,6 @@ public class array_ejercicio9_repeticion {
         //mas commits jejej
 //superemos el reto de 15 commits
         //gg amo programar es muy divertido amo java :)
+        //ahora si finalizacion de arrays
     }
 }
