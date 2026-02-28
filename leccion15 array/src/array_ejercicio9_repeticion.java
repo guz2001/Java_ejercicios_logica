@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class array_ejercicio9_repeticion {
     public static void main(String[] args){
-        Scanner sc=new Scanner(System.in);
+        Scanner sc=new Scanner(System.in);//escaner por defecto
         int []array= new int[10];//creamos el array con 10 espacio
         for(int i=0;i<10;i++){// pedimos al usuario 10 datos
             System.out.println("escoja numero");
