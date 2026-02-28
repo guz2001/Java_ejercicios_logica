@@ -19,6 +19,7 @@ public class array_repaso_ejercicio8 {
         }
         for(Integer arrayResultado: tenArray){
             System.out.println("resultado del array es: "+arrayResultado);
-        }
+        }// imprimir mas simplificado
+
     }
 }
