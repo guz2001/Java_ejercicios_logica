@@ -17,6 +17,6 @@ public class array_ejercicio9_repeticion {
         for(Integer lista: array){//hacemos un for each para imprimir los valores de cada uno evidenciando que se logro el objetivo
             System.out.println("valor array es: "+ lista);
         }
-
+//finalizacion del ejercicio estaba breve
     }
 }
