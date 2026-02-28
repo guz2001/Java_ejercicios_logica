@@ -34,7 +34,7 @@ public class array_ejercicio5_ab {
             System.out.print    (C[i]+"---");
 
         }
-
+        // ejercicio finalizado con logica pura mia
 
 
     }
