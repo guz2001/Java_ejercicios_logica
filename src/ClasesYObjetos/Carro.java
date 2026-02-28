@@ -20,7 +20,7 @@ public class Carro {
         System.out.println("color carro 2 es: "+ carro2.color);
         System.out.println("modelo carro 2 es: "+carro2.modelo);
         System.out.println("kilometraje  carro 2 es: "+ carro2.kmTotal);
-
+//ejercicio como crear un objeto de carro
     }
 
 }
