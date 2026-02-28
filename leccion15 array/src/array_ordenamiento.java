@@ -13,7 +13,7 @@ public class array_ordenamiento {
 
 
 
-        }
+        }//ordenamiento basico logica
         for(int i =0; i<9;i++){
             if(arreglo[i]< arreglo[i+1]){
                 //System.out.printf("el numero del arreglo numero  %d es menor al  valor del arreglo" +
