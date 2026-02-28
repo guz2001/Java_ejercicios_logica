@@ -18,5 +18,7 @@ public class array_ejercicio9_repeticion {
             System.out.println("valor array es: "+ lista);
         }
 //finalizacion del ejercicio estaba breve
+        //mas commits jejej
+
     }
 }
